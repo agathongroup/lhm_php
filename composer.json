@@ -1,7 +1,7 @@
 {
-    "name": "masom/lhm",
+    "name": "agathongroup/lhm",
     "type": "library",
-    "description": "Large Hadron Migrator for phinx",
+    "description": "Large Hadron Migrator for phinx, Agathongroup fork.",
     "keywords": ["lhm", "phinx", "migrations", "database", "db", "database migrations"],
     "license": "BSD-3-Clause",
     "authors": [
