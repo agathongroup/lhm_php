@@ -15,7 +15,7 @@ class LhmApplication extends Application
      *
      * @param string $version The Application Version
      */
-    public function __construct($version = '0.4.3')
+    public function __construct($version = '0.5.1')
     {
         parent::__construct('Large Hadron Migrator', $version);
 
